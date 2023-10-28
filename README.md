@@ -1,7 +1,4 @@
-# smtp-sender
-Golang script to send emails via SMTP protocol.
-
-<h1 align="center" id="title">Minecraft Scraper 🔎</h1><br>
+<h1 align="center" id="title">SMTP Sender 💌</h1><br>
 
 [![license](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
 
