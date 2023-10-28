@@ -29,7 +29,5 @@ go build script.go
 
 `go run script.go`
 
-**Example of result:**
-
 ![image](![image](https://github.com/gabrielctz/smtp-sender/assets/133511026/43f36a9c-4485-46cb-98d1-6673f7de8f8e)
 
